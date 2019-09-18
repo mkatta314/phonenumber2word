@@ -1,0 +1,10 @@
+{
+   "NumberCodes":[ {"digit":2,"value":"ABC"},
+                  {"digit":3,"value":"DEF"},
+                  {"digit":4,"value":"GHI"},
+                  {"digit":5,"value":"JKL"},
+                  {"digit":6,"value":"MNO"},
+                  {"digit":7,"value":"PQRS"},
+                  {"digit":8,"value":"TUV"},
+                  {"digit":9,"value":"WXYZ"}]
+}
