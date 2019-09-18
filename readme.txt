@@ -2,7 +2,7 @@ Please follow the below instructions to run the assigned challenge.
 
 1. Open the shared nodejs project in visual studio code IDE.
 
-2. Open new interated terminal by using menu Terminal -> New Terminal.
+2. Open new integrated terminal by using menu Terminal -> New Terminal.
 
 3. Run the below command to install node dependencies using npm 
     npm install
