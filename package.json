@@ -9,7 +9,7 @@
   "dependencies": {
     "config": "^1.26.2",
     "highland": "^2.13.0",
-    "yargs-parser": "^9.0.2"
+    "yargs-parser": "^13.1.2"
   },
   "devDependencies": {
     "should": "^13.2.3"
