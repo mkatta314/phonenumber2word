@@ -7,7 +7,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "config": "^1.26.2",
+    "config": "^3.3.8",
     "highland": "^2.13.0",
     "yargs-parser": "^9.0.2"
   },
